@@ -12,7 +12,7 @@ cp config.sample.py config.py
 --- EDIT config.py values appropriately ---
 python bot.py
 ```
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/NANDUACHU/uploadbot.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://https://github.com/NANDUACHU/uploadbot.git)
 
 
 - For FeedBack and Suggestions, please feel free to say in [@tonyironman](https://telegram.dog/tonyironman)
