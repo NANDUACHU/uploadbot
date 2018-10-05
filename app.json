@@ -1,6 +1,6 @@
 {
-  "name": "Marie",
-  "description": "Telegram's sassiest group manager. Modular Telegram group management bot!",
+  "name": "uploadbot",
+  "description": "Telegrams supreme downloader using telethon",
   "keywords": [
     "telegram",
     "best",
@@ -8,7 +8,7 @@
     "manager",
     "3"
   ],
-  "repository": "https://github.com/PaulSonOfLars/tgbot",
+  "repository": "https://github.com/NANDUACHU/uploadbot.git",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable env variables",
@@ -20,11 +20,11 @@
     },
     "OWNER_ID": {
       "description": "An integer of consisting of your owner ID",
-      "value": "254318997"
+      "value": "484849544"
     },
     "OWNER_USERNAME": {
       "description": "Your username",
-      "value": "SonOfLars"
+      "value": "tonyironman"
     },
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode messages",
@@ -40,7 +40,7 @@
     },
     "SUDO_USERS": {
       "description": "A space separated list of user_ids which should be considered sudo users",
-      "value": "254318997 18673980 83489514"
+      "value": ""
     },
     "SUPPORT_USERS": {
       "description": "A space separated list of user_ids which should be considered support users (can gban/ungban, nothing else)",
@@ -52,7 +52,7 @@
     },
     "DONATION_LINK": {
       "description": "Optional: link where you would like to receive donations.",
-      "value": "https://www.paypal.me/shrimadhavus
+      "value": "https://www.paypal.me/tonyironman
     },
     "PORT": {
       "description": "Port to use for your webhooks",
@@ -70,10 +70,7 @@
       "description": "Whether to allow using exclamation marks ! for commands as well as /.",
       "value": "True"
     },
-    "BAN_STICKER": {
-      "description": "Which sticker to use when banning people. Use https://telegram.dog/ShowJsonBot to get the file_id",
-      "value": "CAADBQADfQADv7rGI0wxx1ORU7UzAg"
-    }
+    
   },
   "addons": [
     {
