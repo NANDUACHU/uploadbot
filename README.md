@@ -1,5 +1,5 @@
 # uploadbot
-clone o anydlbot of telegram
+clone of anydlbot of telegram
 ---
 
 #### Installation
